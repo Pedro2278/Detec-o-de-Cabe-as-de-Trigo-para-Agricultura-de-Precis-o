@@ -23,11 +23,17 @@ Automatizar a detecção de espigas de trigo com alta precisão e velocidade, us
 ## 🗂️ Estrutura do Projeto
 
 ├── yolov3.yaml # Arquitetura do modelo YOLOv3
+
 ├── data.yaml # Configuração do dataset (treino, validação, classes)
+
 ├── train.py # Código de treinamento
+
 ├── visualize_labels.py # Visualização das bounding boxes
+
 ├── README.md # Documentação do projeto
+
 ├── runs/detect/ # Resultados do treinamento
+
 └── notebooks/ # Notebooks complementares (gráficos e análise)
 ---
 
