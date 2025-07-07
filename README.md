@@ -1,0 +1,1 @@
+# Detec-o-de-Cabe-as-de-Trigo-para-Agricultura-de-Precis-o
